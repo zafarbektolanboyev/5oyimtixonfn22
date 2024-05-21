@@ -288,6 +288,16 @@ li a{
 .footer-nav{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     margin-top: 30px;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+.content .deck p{
+    opacity: 50%;
+}
+.content .link a{
+    gap: 50px;
 }
