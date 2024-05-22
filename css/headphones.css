@@ -214,8 +214,9 @@ li a{
     opacity: 50%;
     margin-bottom: 20px;
 }
-.product2-btn{
+.produc2-btn{
     width: 160px;
+    padding: 12px;
     height: 48px;
     top: 295px;
     background-color: #D87D4A;
@@ -224,7 +225,7 @@ li a{
     color: #fff;
     transition: all 0.5s;
 }
-.product2-btn:hover{
+.produc2-btn:hover{
     border: 1px solid black;
     color: #000;
     background-color: #fff;
